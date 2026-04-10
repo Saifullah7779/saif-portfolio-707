@@ -55,9 +55,8 @@ It acts as my digital identity where I present my work in a clean, structured, a
 ## 📸✨ SCREENSHOTS
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Saifullah7779/saif-portfolio-707/main/Screenshot%202026-04-09%20022746.png" width="90%" />
+  <img src="https://raw.githubusercontent.com/Saifullah7779/saif-portfolio-707/main/Screenshot%202026-04-09%20023450.png" width="90%" />
 </p>
-
 ---
 
 ## 💡🔥 WHAT I LEARNED
