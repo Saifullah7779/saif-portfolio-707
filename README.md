@@ -20,12 +20,6 @@ Saif Portfolio 707 is my personal portfolio website built to showcase my skills,
 
 It acts as my digital identity where I present my work in a clean, structured, and professional way.
 
-This portfolio demonstrates:
-- 💻 Frontend development skills  
-- 🎨 UI/UX design abilities  
-- 📂 Real-world project experience  
-- 📈 Continuous learning journey  
-
 ---
 
 ## 🎯✨ PROJECT OBJECTIVES
@@ -54,17 +48,15 @@ This portfolio demonstrates:
 ## 🚀🌍 LIVE DEMO
 
 👉 🌐 Live Portfolio: https://saif-portfolio707.netlify.app/  
-👉 🐙 GitHub Repo: https://github.com/your-username/saif-portfolio-707  
+👉 🐙 GitHub Repo: https://github.com/Saifullah7779/saif-portfolio-707  
 
 ---
 
 ## 📸✨ SCREENSHOTS
 
-- 🏠 Home Section  
-- 👨‍💻 About Section  
-- 🛠️ Skills Section  
-- 📂 Projects Section  
-- 📞 Contact Section  
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Saifullah7779/saif-portfolio-707/main/Screenshot%202026-04-09%20022746.png" width="90%" />
+</p>
 
 ---
 
