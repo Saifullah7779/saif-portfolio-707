@@ -50,13 +50,15 @@ This portfolio demonstrates:
 
 ## 📂📁 PROJECT STRUCTURE
 
-📦 saif-portfolio-707  
-┣ 📜 index.html  
-┣ 📜 style.css  
-┣ 📜 script.js (if used)  
-┣ 📁 assets/  
-┃ ┣ images/  
-┃ ┗ icons/  
+```
+📦 saif-portfolio-707
+├── 📜 index.html
+├── 📜 style.css
+├── 📜 script.js
+└── 📁 assets/
+    ├── 📁 images/
+    └── 📁 icons/
+```
 
 ---
 
