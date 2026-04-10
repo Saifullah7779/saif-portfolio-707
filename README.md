@@ -34,7 +34,7 @@ This portfolio demonstrates:
 - 💡 Showcase real-world frontend projects  
 - 🎨 Demonstrate UI/UX design skills  
 - 📱 Ensure full responsiveness across devices  
-- 🌐 Prepare projects for deployment (GitHub Pages / Netlify)  
+- 🌐 Deploy and maintain live projects online  
 
 ---
 
@@ -50,15 +50,13 @@ This portfolio demonstrates:
 
 ## 📂📁 PROJECT STRUCTURE
 
-```
-📦 saif-portfolio-707
- ┣ 📜 index.html
- ┣ 📜 style.css
- ┣ 📜 script.js (if used)
- ┣ 📁 assets/
- ┃ ┣ images/
- ┃ ┗ icons/
-```
+📦 saif-portfolio-707  
+┣ 📜 index.html  
+┣ 📜 style.css  
+┣ 📜 script.js (if used)  
+┣ 📁 assets/  
+┃ ┣ images/  
+┃ ┗ icons/  
 
 ---
 
@@ -77,7 +75,7 @@ This portfolio demonstrates:
 
 ## 🚀🌍 LIVE DEMO
 
-👉 🌐 Live Portfolio: (Add your Netlify / GitHub Pages link here)  
+👉 🌐 Live Portfolio: https://saif-portfolio707.netlify.app/  
 👉 🐙 GitHub Repo: https://github.com/your-username/saif-portfolio-707  
 
 ---
@@ -118,7 +116,7 @@ This portfolio demonstrates:
 - 📌 Name: Saif Ullah  
 - 📧 Email: saifystar707@gmail.com  
 - 🐙 GitHub: Saifullah7779  
-- 🌐 Portfolio: (Add link here)  
+- 🌐 Portfolio: https://saif-portfolio707.netlify.app/  
 
 ---
 
